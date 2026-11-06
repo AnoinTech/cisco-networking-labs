@@ -78,6 +78,22 @@ These labs strengthened practical understanding of:
 - Packet-level troubleshooting
 - Network documentation
 
+  
+## Project Evidence
+
+### 1. LAN Network Topology
+![LAN Network Topology](screenshots/lan-topology.png)
+
+### 2. Multi-Router Network Topology
+![Multi-Router Network](screenshots/multi-router-topology.png)
+
+### 3. Successful Ping Connectivity Test
+![Successful Ping Test](screenshots/ping-test-success.png)
+
+### 4. ICMP Packet Simulation
+![ICMP Simulation](screenshots/icmp-simulation.png)
+
+
 ## Author
 
 **Anointing Onyebuchi Ibeh**
